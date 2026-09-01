@@ -47,7 +47,7 @@ Je construis ces compétences à travers un projet personnel portfolio (applicat
 
 ## Me contacter
 - Localisation : Île-de-France, France
-- LinkedIn : [[https://www.linkedin.com/in/mame-coulibaly-333752277/](https://www.linkedin.com/in/mame-coulibaly-333752277/)]
+- LinkedIn : [(https://www.linkedin.com/in/mame-coulibaly-333752277/)]
 ---
 
 Je privilégie des projets lisibles, testés et déployables, avec une attention particulière à la qualité et à la sécurité.
