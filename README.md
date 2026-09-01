@@ -1,13 +1,13 @@
-# Bonjour,  je suis Mame Coulibaly
+# Bonjour, je suis Mame Coulibaly
 
-Étudiante ingénieure en 5ᵉ année à l'ESIEA, basée en Île-de-France, France.
+Étudiante ingénieure en 5ᵉ année à l'ESIEA, basée en Île-de-France, France.  
 Actuellement en alternance DevSecOps chez Demkada (depuis juillet 2024).
 
 ---
 
 ## Ce que je fais en ce moment
 
-### Alternance DevSecOps - Demkada
+### Alternance DevSecOps – Demkada
 Je travaille sur la plateforme **Argy**, un outil interne d'IA gouvernée pour les équipes techniques, et plus précisément sur **Argy Code**, un environnement de développement assisté par IA.
 
 Mes missions portent principalement sur :
@@ -21,7 +21,7 @@ Mes missions portent principalement sur :
 - Participer aux vérifications liées aux déploiements et aux environnements Azure
 - Contribuer à l'amélioration continue du produit dans un contexte client réel
 
-### Formation - ESIEA (5ᵉ année)
+### Formation – ESIEA (5ᵉ année)
 Cursus ingénieur orienté développement logiciel, avec un intérêt particulier pour la qualité, les tests et l'intégration de la sécurité dans les pipelines.
 
 ---
@@ -48,7 +48,66 @@ Je construis ces compétences à travers un projet personnel portfolio (applicat
 ## Me contacter
 - Localisation : Île-de-France, France
 - LinkedIn : [(https://www.linkedin.com/in/mame-coulibaly-333752277/)]
+
 ---
 
-Je privilégie des projets lisibles, testés et déployables, avec une attention particulière à la qualité et à la sécurité.
+Je privilégie des projets lisibles, testés et déployables, avec une attention particulière à la qualité et à la sécurité.  
 N'hésite pas à explorer mes repos et à me contacter pour échanger sur le DevSecOps, les agents IA ou l'ingénierie logicielle.
+
+-----------------------------------
+
+# Hello, I'm Mame Coulibaly
+
+5th-year engineering student at ESIEA, based in Île-de-France, France.  
+Currently in a DevSecOps work-study program at Demkada (since July 2024).
+
+---
+
+## What I'm currently doing
+
+### DevSecOps Work-Study – Demkada
+I work on the **Argy** platform, an internal governed AI tool for technical teams, and more specifically on **Argy Code**, an AI-assisted development environment.
+
+My main responsibilities include:
+- Testing Argy features based on acceptance test scenarios covering authentication, Studio, pipelines, governance, observability and AI agents
+- Verifying expected behaviors and identifying functional gaps
+- Qualifying anomalies by specifying context, reproduction steps, expected result, observed result and user impact
+- Analyzing logs, run statuses, API errors and behaviors observed in DevTools
+- Using Argy Code to analyze and fix certain bugs in a structured way
+- Following a structured method with dedicated branches, tests and build checks before/after fixes
+- Verifying fixes by replaying relevant scenarios and checking for regressions
+- Participating in deployment-related checks and Azure environment validations
+- Contributing to continuous product improvement in a real client context
+
+### Education – ESIEA (5th year)
+Engineering curriculum focused on software development, with a particular interest in quality, testing and integrating security into pipelines.
+
+---
+
+## What I'm currently learning
+I am progressively building autonomy in:
+- Containerization and orchestration: Docker, Kubernetes basics
+- Infrastructure as Code: Terraform
+- CI/CD: designing and maintaining pipelines
+- Cloud security: best practices on AWS and Azure
+- Git: branch management, commits, pull requests
+
+I am building these skills through a personal portfolio project (web applications, CI/CD pipelines, cloud deployments).
+
+---
+
+## Stack and tools
+- Dev / Ops: Docker, Terraform (learning), CI/CD
+- Cloud: Azure (at work), AWS (learning)
+- Quality: Postman, DevTools, log analysis, build verification, regression control
+
+---
+
+## Contact
+- Location: Île-de-France, France
+- LinkedIn: [(https://www.linkedin.com/in/mame-coulibaly-333752277/)]
+
+---
+
+I prioritize projects that are readable, testable and deployable, with a strong focus on quality and security.  
+Feel free to explore my repos and contact me to discuss DevSecOps, AI agents or software engineering.
