@@ -1,4 +1,4 @@
-# Bonjour, je suis Mame Coulibaly
+# Bonjour,  je suis Mame Coulibaly
 
 Étudiante ingénieure en 5ᵉ année à l'ESIEA, basée en Île-de-France, France.
 Actuellement en alternance DevSecOps chez Demkada (depuis juillet 2024).
@@ -7,7 +7,7 @@ Actuellement en alternance DevSecOps chez Demkada (depuis juillet 2024).
 
 ## Ce que je fais en ce moment
 
-### Alternance DevSecOps – Demkada
+### Alternance DevSecOps - Demkada
 Je travaille sur la plateforme **Argy**, un outil interne d'IA gouvernée pour les équipes techniques, et plus précisément sur **Argy Code**, un environnement de développement assisté par IA.
 
 Mes missions portent principalement sur :
@@ -21,7 +21,7 @@ Mes missions portent principalement sur :
 - Participer aux vérifications liées aux déploiements et aux environnements Azure
 - Contribuer à l'amélioration continue du produit dans un contexte client réel
 
-### Formation – ESIEA (5ᵉ année)
+### Formation - ESIEA (5ᵉ année)
 Cursus ingénieur orienté développement logiciel, avec un intérêt particulier pour la qualité, les tests et l'intégration de la sécurité dans les pipelines.
 
 ---
@@ -47,8 +47,7 @@ Je construis ces compétences à travers un projet personnel portfolio (applicat
 
 ## Me contacter
 - Localisation : Île-de-France, France
-- LinkedIn : [linkedin.com/in/ton-profil]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/mame-coulibaly-333752277/))
-
+- LinkedIn : [[https://www.linkedin.com/in/mame-coulibaly-333752277/](https://www.linkedin.com/in/mame-coulibaly-333752277/)]
 ---
 
 Je privilégie des projets lisibles, testés et déployables, avec une attention particulière à la qualité et à la sécurité.
